@@ -1,9 +1,9 @@
-git# Personal Developer Portfolio 🚀
+# Personal Developer Portfolio 🚀
 
 A modern, minimalist, and fully responsive personal portfolio website to showcase my projects, skills, and academic journey. 
 
 ## 🔗 Live Demo
-[View Live Portfolio Here](#) *(Update this link once you deploy your site)*
+[https://rahul01.vercel.app/](#) *(Update this link once you deploy your site)*
 
 ## ✨ Key Features
 * **Dark & Light Mode:** Built-in theme toggle with CSS variables.
